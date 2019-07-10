@@ -97,28 +97,18 @@ export default function App() {
       <Section
         title="Wedding Well"
         lineOne="More than just kisses so far we've shared /n
-
-Our home has been made with love and care/n
-
-Most things we need we’ve already got/n
-
-Like a toaster and kettle, pans and pots/n
-
-A wishing well we thought would be great/n
-
-(but only if you wish to participate)/n
-
-A gift of money is placed in the well/n
-
-Then make a wish … but do not tell/n
-
-Once we’ve replaced the old with the new/n
-
-We can look back and say it was thanks to you!/n
-
-And in return for your kindness we’re sure/n
-
-that one day soon you'll get what you wished for!"
+          Our home has been made with love and care/n
+          Most things we need we’ve already got/n
+          Like a toaster and kettle, pans and pots/n
+          A wishing well we thought would be great/n
+          (but only if you wish to participate)/n
+          A gift of money is placed in the well/n
+          Then make a wish … but do not tell/n
+          Once we’ve replaced the old with the new/n
+          We can look back and say it was thanks to you!/n
+          And in return for your kindness we’re sure/n
+          that one day soon you'll get what you wished for!"
+        lineTwo="Zelle: josephtjchang@gmail.com || (323) 979-9136"
         image={require('../src/static/wishing-well.png')}
       />
       <div className="background" />

@@ -51,7 +51,7 @@
           <entry key="CNAME" value="12" />
           <entry key="css" value="320" />
           <entry key="html" value="72" />
-          <entry key="js" value="1036" />
+          <entry key="js" value="1120" />
           <entry key="json" value="76" />
         </counts>
       </usages-collector>
@@ -60,7 +60,7 @@
           <entry key="CSS" value="320" />
           <entry key="HTML" value="72" />
           <entry key="JSON" value="76" />
-          <entry key="JavaScript" value="1036" />
+          <entry key="JavaScript" value="1120" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -77,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
-              <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+            <state relative-caret-position="344">
+              <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -98,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Section.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+            <state relative-caret-position="596">
+              <caret line="108" column="14" lean-forward="true" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -135,9 +135,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/Carousel.js" />
-        <option value="$PROJECT_DIR$/src/components/Section.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Section.js" />
       </list>
     </option>
   </component>
@@ -245,12 +245,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562722346705</updated>
       <workItem from="1562722347940" duration="3905000" />
-      <workItem from="1562779792174" duration="9818000" />
+      <workItem from="1562779792174" duration="10173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13723000" />
+    <option name="totallyTimeSpent" value="14078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="3360" height="1867" extended-state="6" />
@@ -366,13 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Section.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2044">
@@ -382,11 +375,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+        <state relative-caret-position="344">
+          <caret line="100" column="30" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Section.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="108" column="14" lean-forward="true" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
         </state>
       </provider>
     </entry>
