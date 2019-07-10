@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.934a0327.chunk.css",
+    "main.js": "/static/js/main.9c6eb1ca.chunk.js",
+    "main.js.map": "/static/js/main.9c6eb1ca.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.83d17e43.chunk.js": "/static/js/2.83d17e43.chunk.js",
+    "static/js/2.83d17e43.chunk.js.map": "/static/js/2.83d17e43.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cd26940559a8b02b1efd007d85186425.js": "/precache-manifest.cd26940559a8b02b1efd007d85186425.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.934a0327.chunk.css.map": "/static/css/main.934a0327.chunk.css.map",
+    "static/media/back.svg": "/static/media/back.7a004133.svg",
+    "static/media/App.css": "/static/media/bg2.80f4caff.png",
+    "static/media/bio.png": "/static/media/bio.48e77642.png",
+    "static/media/bio2.png": "/static/media/bio2.783ce109.png",
+    "static/media/header-img.png": "/static/media/header-img.384b3523.png",
+    "static/media/location.svg": "/static/media/location.e85a1c1f.svg",
+    "static/media/next.svg": "/static/media/next.6f98de6c.svg",
+    "static/media/time.svg": "/static/media/time.47186f51.svg",
+    "static/media/wedding-details.png": "/static/media/wedding-details.cdc61a4c.png",
+    "static/media/where-to-stay.png": "/static/media/where-to-stay.58d24f81.png",
+    "static/media/wishing-well.png": "/static/media/wishing-well.7a38e93d.png"
+  }
+}
