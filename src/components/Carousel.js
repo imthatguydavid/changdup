@@ -12,11 +12,12 @@ const fullWidth = {
   width: '100%',
 };
 const hr = {
-  backgroundColor: '#948BB7',
+  backgroundColor: '#1E90FF',
   height: 3,
   margin: 0,
   textAlign: 'left',
   width: '1.6rem',
+  border: 'none',
 };
 const box = {
   display: 'block',

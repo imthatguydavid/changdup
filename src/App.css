@@ -47,7 +47,7 @@ a {
 }
 
 .background {
-  background-image: url(../src/static/bg3.png);
+  background-image: url(../src/static/bg.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 100% 100%;

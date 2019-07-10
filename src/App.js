@@ -25,10 +25,29 @@ export default function App() {
     </div>
   );
 
+  const hotel = (
+    <div className="locationContainer">
+      <img src={require('../src/static/hotel.svg')}/>
+      <p>Residence Inn Camarillo</p>
+    </div>
+  )
+
+  const hotelAddress = (
+    <div className="addressContainer">
+      <img src={require('../src/static/location.svg')} />
+      <div className="address">
+        <p>Residence Inn Camarillo</p>
+        <p>123 Venue Address #420</p>
+        <p>Camarillo, CA 90018</p>
+      </div>
+    </div>
+  )
+
   return (
     <div>
       <div className="header">
         <h1>Chang’d Up</h1>
+        <p style={{marginBottom: 0, fontSize: 24,}}>Erica Joy De La Merced + Jospeh Taejoon Chang</p>
         <h3>September 21, 2019</h3>
         <p>
           We want to invite you to be a part of one of the greatest day of
@@ -47,10 +66,8 @@ export default function App() {
       <div className="spacing"/>
       <Section
         title="Where To Stay"
-        lineOne="Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Cras auctor suscipit congue. Vivamus scelerisque tortor vitae eros
-            pellentesque, vitae facilisis ante pellentesque. Sed sed pharetra
-            ante. Phasellus malesuada et mi nec feugiat."
+        lineThree={hotelAddress}
+        lineTwo='Rooms are ready to be reserved by calling reservations (800.321.2211) and referencing the Chang/Dela Wedding room block'
         link='https://www.marriott.com/events/start.mi?id=1556313200120&key=GRP'
         linkTitle='BOOK YOUR ROOM'
         image={require('../src/static/where-to-stay.png')}
@@ -79,17 +96,28 @@ export default function App() {
       <Section
         title="Wedding Well"
         lineOne="More than just kisses so far we've shared /n
-            Our home has been made with love and care /n
-            Most things we need we’ve already got /n
-            Like a toaster and kettle, pans and pots /n
-            A wishing well we thought would be great /n
-            (but only if you wish to participate) /n
-            A gift of money is placed in the well /n
-            Then make a wish … but do not tell /n
-            Once we’ve replaced the old with the new /n
-            We can look back and say it was thanks to you! /n
-            And in return for your kindness we’re sure /n
-            that one day soon you'll get what you wished for! /n"
+
+Our home has been made with love and care/n
+
+Most things we need we’ve already got/n
+
+Like a toaster and kettle, pans and pots/n
+
+A wishing well we thought would be great/n
+
+(but only if you wish to participate)/n
+
+A gift of money is placed in the well/n
+
+Then make a wish … but do not tell/n
+
+Once we’ve replaced the old with the new/n
+
+We can look back and say it was thanks to you!/n
+
+And in return for your kindness we’re sure/n
+
+that one day soon you'll get what you wished for!"
         image={require('../src/static/wishing-well.png')}
       />
       <div className="background" />
