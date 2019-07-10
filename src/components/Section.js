@@ -63,7 +63,7 @@ const linkContainer = {
   borderRadius: '50px',
   textAlign: 'center',
   width: 200,
-  backgroundImage: 'linear-gradient(to right top, #111d6b, #3a367e, #595191, #776da4, #948bb7)',
+  backgroundImage: 'linear-gradient(to right top, #1e90ff, #00a8ff, #00bdff, #00cff9, #00dfed)',
   color: '#fff',
   textTransform: 'uppercase',
   cursor: 'pointer',
