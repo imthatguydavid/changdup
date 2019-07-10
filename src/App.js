@@ -66,8 +66,9 @@ export default function App() {
       <div className="spacing"/>
       <Section
         title="Where To Stay"
+        lineOne='Rooms are ready to be reserved by calling reservations (800.321.2211) and referencing the Chang/Dela Wedding room block. /n
+        All rooms must be booked by 08/23/19'
         lineThree={hotelAddress}
-        lineTwo='Rooms are ready to be reserved by calling reservations (800.321.2211) and referencing the Chang/Dela Wedding room block'
         link='https://www.marriott.com/events/start.mi?id=1556313200120&key=GRP'
         linkTitle='BOOK YOUR ROOM'
         image={require('../src/static/where-to-stay.png')}
