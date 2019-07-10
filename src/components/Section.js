@@ -43,7 +43,7 @@ const box = {
   paddingBottom: 12,
 };
 const hr = {
-  backgroundColor: '#948BB7',
+  backgroundColor: '#1E90FF',
   height: 3,
   margin: 0,
   textAlign: 'left',
