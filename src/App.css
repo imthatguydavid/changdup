@@ -1,40 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Source+Sans+Pro&display=swap');
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   color: #333;
   margin: 0;
-}
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
 
 a {
@@ -163,12 +135,20 @@ ul li:nth-child(even) {
   }
   .singleContent {
     order: 2;
+    padding: 0 !important;
+    margin-bottom: 30px;
   }
   .imageContainer {
     order: 1;
   }
   .whiteBg {
     right: 0 !important;
+  }
+  .headerImage, footerImage {
+    width: 80%;
+  }
+  .imageContainer {
+    transform: translateY(-1.4rem) !important;
   }
 }
 
