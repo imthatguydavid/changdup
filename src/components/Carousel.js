@@ -6,6 +6,7 @@ import 'web-animations-js'
 const Container = {
   width: '100%',
   marginBottom: 100,
+  overflowX: 'hidden',
 };
 const fullWidth = {
   width: '100%',
@@ -67,18 +68,18 @@ function Carousel(props) {
 
 
   function slideRight() {
-    if(slidePosition === -46) {
+    if(slidePosition === -70) {
       sliderRef.current.animate([{transform: `translateX(${slidePosition}rem)`}, {transform: `translateX(0rem)`}], options);
       setPosition(0);
       return;
     }
-    sliderRef.current.animate([{transform: `translateX(${slidePosition}rem)`}, {transform: `translateX(${slidePosition - 23}rem)`}], options)
-    setPosition(slidePosition - 23);
+    sliderRef.current.animate([{transform: `translateX(${slidePosition}rem)`}, {transform: `translateX(${slidePosition - 35}rem)`}], options)
+    setPosition(slidePosition - 35);
   }
 
   function slideLeft() {
-    sliderRef.current.animate([{transform: `translateX(${slidePosition}rem)`}, {transform: `translateX(${slidePosition + 23}rem)`}], options)
-    setPosition(slidePosition + 23);
+    sliderRef.current.animate([{transform: `translateX(${slidePosition}rem)`}, {transform: `translateX(${slidePosition + 35}rem)`}], options)
+    setPosition(slidePosition + 35);
   }
 
   const leftDisabled = slidePosition === 0;

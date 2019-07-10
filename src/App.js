@@ -96,7 +96,7 @@ export default function App() {
       <div className="footer">
         <h2> Thanks For Visiting</h2>
         <p>We hope to see you on our speceial day</p>
-        <img src={require('../src/static/header-img.png')} className="headerImage"/>
+        <img src={require('../src/static/footer.png')} className="headerImage"/>
       </div>
     </div>
   )}
