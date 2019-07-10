@@ -59,12 +59,19 @@ const longText = {
 };
 const linkContainer = {
   marginTop: 33,
-  padding: '1px 21px',
+  padding: '13px 21px',
   borderRadius: '50px',
   textAlign: 'center',
   width: 200,
   backgroundImage: 'linear-gradient(to right top, #111d6b, #3a367e, #595191, #776da4, #948bb7)',
+  color: '#fff',
+  textTransform: 'uppercase',
+  cursor: 'pointer',
+  letterSpacing: 2,
 };
+const link = {
+  margin: 0
+}
 
 
 const Section = props => (
@@ -96,11 +103,9 @@ const Section = props => (
           </div>
         }
         { props.link &&
-        <div style={linkContainer}>
-          <p>
-            <a href={props.link} target='_blank'>
+        <div style={linkContainer} onClick={() => window.open(props.link, '_blank')}>
+          <p style={link}>
             {props.linkTitle}
-            </a>
           </p>
         </div>
         }

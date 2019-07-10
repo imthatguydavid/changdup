@@ -68,16 +68,16 @@ function Carousel(props) {
 
   function slideRight() {
     if(slidePosition === -46) {
-      sliderRef.current.animate([{transform: `translateX(${slidePosition}%)`}, {transform: `translateX(0%)`}], options);
+      sliderRef.current.animate([{transform: `translateX(${slidePosition}rem)`}, {transform: `translateX(0rem)`}], options);
       setPosition(0);
       return;
     }
-    sliderRef.current.animate([{transform: `translateX(${slidePosition}%)`}, {transform: `translateX(${slidePosition - 23}%)`}], options)
+    sliderRef.current.animate([{transform: `translateX(${slidePosition}rem)`}, {transform: `translateX(${slidePosition - 23}rem)`}], options)
     setPosition(slidePosition - 23);
   }
 
   function slideLeft() {
-    sliderRef.current.animate([{transform: `translateX(${slidePosition}%)`}, {transform: `translateX(${slidePosition + 23}%)`}], options)
+    sliderRef.current.animate([{transform: `translateX(${slidePosition}rem)`}, {transform: `translateX(${slidePosition + 23}rem)`}], options)
     setPosition(slidePosition + 23);
   }
 

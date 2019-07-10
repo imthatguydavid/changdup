@@ -40,10 +40,9 @@ export default function App() {
         title="Wedding Details"
         lineTwo={weddingDetailsWhen}
         lineThree={weddingDetailLocation}
-        buttonTxt="RSVP NOW"
         image={require('../src/static/wedding-details.png')}
-        link='https://www.espn.com'
-        linkTitle='espn'
+        link='https://changdup.app.rsvpify.com/'
+        linkTitle='RSVP NOW'
       />
       <div className="spacing"/>
       <Section
