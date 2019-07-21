@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Source+Sans+Pro&display=swap');
 html {
-  overflow: hidden;
   height: 100%;
 }
 body {
@@ -11,17 +10,49 @@ body {
 }
 
 a {
-  color: #fff;
   text-decoration: none;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: .08rem;
+}
+
+a:visited {
+  color: inherit;
+}
+
+.homeNav {
+  width: 500px;
+  margin: auto;
+}
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 50px 50px 13px;
+  li {
+    list-style-type: none;
+    text-align: center;
+    width: 220px;
+  }
+  a {
+    color: #333333;
+  }
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  position: relative;
 }
 
 .header, .footer {
   display: flex;
   flex-direction: column;
   z-index: 2;
-  margin-bottom: 100px;
+}
+
+.header h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.8rem;
+  color: #333;
 }
 
 .header h1, .header h3, .header p, .footer h2, .footer p {
@@ -64,7 +95,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin-top: 100px;
   font-size: 70px;
   margin-bottom: 0;
 }
@@ -87,70 +117,22 @@ p {
   height: 60px;
 }
 
-.carouselContainer {
-  padding: 0 12vw;
+.cta {
+  padding: 13px 21px;
+  background: aqua;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  border: 2px solid red;
+  color: #fff !important;
+  font-size: 16px;
 }
 
-ul {
-  display: flex;
+.cta:hover {
+  background: red;
 }
 
-ul li {
-  margin-right: 34px;
-  list-style: none;
+.pageTitle {
+  text-align: left;
+  font-size: 30px;
 }
-
-ul li:nth-child(odd) {
-  transform: translateY(1rem);
-}
-
-ul li:nth-child(even) {
-  transform: translateY(-1rem);
-}
-
-.locationContainer, .addressContainer {
-  display: flex;
-  flex-direction: row;
-  align-items: center ;
-}
-
-.addressContainer {
-  align-items: flex-start;
-}
-
-.locationContainer img, .addressContainer img {
-  margin-right: 13px;
-}
-
-.locationContainer p, .addressContainer p {
-  margin: 0 0 5px 5px;
-}
-
-@media only screen and (max-width: 1024px) {
-  .whiteBg {
-    right: 20rem !important;
-  }
-}
-@media only screen and (max-width: 768px) {
-  .contentWrapper {
-    flex-direction: column;
-  }
-  .singleContent {
-    order: 2;
-    padding: 0 !important;
-    margin-bottom: 30px;
-  }
-  .imageContainer {
-    order: 1;
-  }
-  .whiteBg {
-    right: 0 !important;
-  }
-  .headerImage, footerImage {
-    width: 80%;
-  }
-  .imageContainer {
-    transform: translateY(-1.4rem) !important;
-  }
-}
-

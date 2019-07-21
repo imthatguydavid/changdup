@@ -71,7 +71,7 @@ const linkContainer = {
 };
 const link = {
   margin: 0
-}
+};
 
 
 const Section = props => (

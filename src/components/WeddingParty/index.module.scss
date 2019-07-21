@@ -1,0 +1,25 @@
+.header {
+    color: red;
+    background: antiquewhite;
+}
+.pageTitle {
+    text-align: center;
+    margin: 50px;
+}
+.contentContainer {
+    display: flex;
+}
+.group {
+    flex: 1;
+}
+.people {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 32px;
+}
