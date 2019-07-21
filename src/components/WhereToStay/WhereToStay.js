@@ -6,9 +6,9 @@ class WhereToStay extends React.Component {
   render() {
     return (
       <div className="container">
-        <h2 className="pageTitle">Where To Stay</h2>
         <div className={styles.contentContainer}>
           <div className={styles.content}>
+            <h2 className="pageTitle">Where To Stay</h2>
             <p>Rooms are ready to be reserved by calling reservations (800.321.2211) and referencing the <strong>Chang/Dela Wedding room block</strong>.</p>
             <p>All rooms must be booked by 08/23/19</p>
             <div className={styles.buttonContainer}>
