@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.ae65a47a.chunk.css",
-    "main.js": "/static/js/main.5352bfc2.chunk.js",
-    "main.js.map": "/static/js/main.5352bfc2.chunk.js.map",
+    "main.js": "/static/js/main.a02d6b0b.chunk.js",
+    "main.js.map": "/static/js/main.a02d6b0b.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.159475c5.chunk.js": "/static/js/2.159475c5.chunk.js",
     "static/js/2.159475c5.chunk.js.map": "/static/js/2.159475c5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0cccee4990d35e5532305a8baf1de130.js": "/precache-manifest.0cccee4990d35e5532305a8baf1de130.js",
+    "precache-manifest.668a04aedd42d9c1d3cad55de38f59b8.js": "/precache-manifest.668a04aedd42d9c1d3cad55de38f59b8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ae65a47a.chunk.css.map": "/static/css/main.ae65a47a.chunk.css.map",
     "static/media/andrew.png": "/static/media/andrew.c687aa04.png",
     "static/media/App.scss": "/static/media/bg.a712e828.png",
     "static/media/bio.png": "/static/media/bio.48e77642.png",
-    "static/media/bio2.png": "/static/media/bio2.783ce109.png",
     "static/media/cheryl.png": "/static/media/cheryl.d953de67.png",
     "static/media/daniel.png": "/static/media/daniel.81988f57.png",
     "static/media/header-img.png": "/static/media/header-img.384b3523.png",
@@ -22,6 +21,7 @@
     "static/media/mikhail.png": "/static/media/mikhail.596b0861.png",
     "static/media/molly.jpg": "/static/media/molly.1e3fe62a.jpg",
     "static/media/russ.png": "/static/media/russ.418ca219.png",
+    "static/media/suzy.png": "/static/media/suzy.2efd10e0.png",
     "static/media/wishing-well.png": "/static/media/wishing-well.7a38e93d.png"
   }
 }
