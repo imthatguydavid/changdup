@@ -24,7 +24,7 @@ class WeddingParty extends React.Component {
               <Party title='Maid of Honor' name='Melissa De La Merced' image={require('../../static/melissa.png')} />
               <Party title='Bridesmaid' name='Cheryl Directo' image={require('../../static/cheryl.png')} />
               <Party title='Bridesmaid' name='Molly Anabeze' image={require('../../static/molly.jpg')} />
-              <Party title='Bridesmaid' name='Daniel Daegun Lee' image={require('../../static/bio2.png')} />
+              <Party title='Bridesmaid' name='Suzy Chang' image={require('../../static/suzy.png')} />
             </div>
           </div>
         </div>
