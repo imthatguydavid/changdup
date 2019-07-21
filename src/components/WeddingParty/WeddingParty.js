@@ -22,9 +22,9 @@ class WeddingParty extends React.Component {
             <h3 className={styles.title}>Bridal Party</h3>
             <div className={styles.people}>
               <Party title='Maid of Honor' name='Melissa De La Merced' image={require('../../static/melissa.png')} />
-              <Party title='Best Man' name='Cheryl Directo' image={require('../../static/cheryl.png')} />
-              <Party title='Best Man' name='Daniel Daegun Lee' image={require('../../static/bio2.png')} />
-              <Party title='Best Man' name='Daniel Daegun Lee' image={require('../../static/bio2.png')} />
+              <Party title='Bridesmaid' name='Cheryl Directo' image={require('../../static/cheryl.png')} />
+              <Party title='Bridesmaid' name='Molly Anabeze' image={require('../../static/molly.jpg')} />
+              <Party title='Bridesmaid' name='Daniel Daegun Lee' image={require('../../static/bio2.png')} />
             </div>
           </div>
         </div>
