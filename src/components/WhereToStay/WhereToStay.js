@@ -18,7 +18,7 @@ class WhereToStay extends React.Component {
           </div>
           <div className={styles.map}>
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3299.227072421801!2d-119.0201756841347!3d34.217219980561275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e83641c3f8bb53%3A0x3b3a16e768c49877!2sCamarillo+Ranch!5e0!3m2!1sen!2sus!4v1563752609132!5m2!1sen!2sus"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3299.354014258062!2d-119.0328243847806!3d34.21397808056224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e8363d62dac87d%3A0xd8b158fceedc69ae!2sResidence+Inn+by+Marriott+Camarillo!5e0!3m2!1sen!2sus!4v1563753359226!5m2!1sen!2sus"
               width="450" height="450" frameBorder="0" allowFullScreen></iframe>
           </div>
         </div>
