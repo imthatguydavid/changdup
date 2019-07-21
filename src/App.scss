@@ -119,17 +119,26 @@ p {
 
 .cta {
   padding: 13px 21px;
-  background: aqua;
+  background: #2B2D3B;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
-  border: 2px solid red;
+  border: 2px solid #2B2D3B;
   color: #fff !important;
   font-size: 16px;
 }
+.cta a {
+  color: inherit;
+}
 
 .cta:hover {
-  background: red;
+  background: transparent;
+  color: #2B2D3B;
+  border: 2px solid #2B2D3B;
+}
+
+.cta:hover a {
+  color: #2B2D3B;
 }
 
 .pageTitle {
