@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42e04fe5-6b99-4232-b9d5-4a30900c6c5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/WhereToStay/WhereToStay.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WhereToStay/WhereToStay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WhereToStay/index.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WhereToStay/index.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Party/index.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Party/index.module.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,7 +58,7 @@
           <entry key="html" value="72" />
           <entry key="js" value="4395" />
           <entry key="json" value="76" />
-          <entry key="scss" value="1606" />
+          <entry key="scss" value="1663" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -69,7 +68,7 @@
           <entry key="JSON" value="76" />
           <entry key="JavaScript" value="4395" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="SCSS" value="1606" />
+          <entry key="SCSS" value="1663" />
         </counts>
       </usages-collector>
     </session>
@@ -130,10 +129,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/WhereToStay/index.module.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
+            <state relative-caret-position="644">
               <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
@@ -155,7 +154,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/Party/Party.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
-              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -163,11 +162,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Party/index.module.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="252">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -232,11 +231,11 @@
         <option value="$PROJECT_DIR$/src/components/WeddingDetails/WeddingDetails.js" />
         <option value="$PROJECT_DIR$/src/components/WeddingParty/index.module.scss" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/Party/index.module.scss" />
         <option value="$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js" />
         <option value="$PROJECT_DIR$/src/App.scss" />
         <option value="$PROJECT_DIR$/src/components/WhereToStay/WhereToStay.js" />
         <option value="$PROJECT_DIR$/src/components/WhereToStay/index.module.scss" />
+        <option value="$PROJECT_DIR$/src/components/Party/index.module.scss" />
       </list>
     </option>
   </component>
@@ -373,12 +372,12 @@
       <workItem from="1562722347940" duration="3905000" />
       <workItem from="1562779792174" duration="10944000" />
       <workItem from="1563656637907" duration="2605000" />
-      <workItem from="1563659332283" duration="11700000" />
+      <workItem from="1563659332283" duration="12252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29154000" />
+    <option name="totallyTimeSpent" value="29706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="0" />
@@ -588,23 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Party/Party.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Party/index.module.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
@@ -641,8 +623,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/WhereToStay/index.module.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="644">
           <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Party/Party.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Party/index.module.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -4,6 +4,9 @@
   -webkit-box-shadow: 5px 10px 15px 0 rgba(51,51,51,1);
   -moz-box-shadow: 5px 10px 15px 0 rgba(51,51,51,1);
   box-shadow: 5px 10px 15px 0 rgba(51,51,51,1);
+  max-height: 450px;
+  overflow: hidden;
+  object-fit: cover;
 }
 .title {
   margin: 0;
