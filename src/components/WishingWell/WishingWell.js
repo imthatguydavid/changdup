@@ -24,7 +24,7 @@ class WishingWell extends React.Component {
               <p> that one day soon you'll get what you wished for!</p>
             </div>
             <div className={styles.donations}>
-              <p>Zelle: <strong>josephtjchang@gmail.com || (323) 979-9136</strong></p>
+              <button className="cta"><a href="https://www.honeyfund.com/wedding/ChangdUp" target="_blank">Wishing Well</a></button>
             </div>
           </div>
           <div className={styles.image}>
