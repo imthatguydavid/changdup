@@ -22,3 +22,27 @@
   bottom: 5px;
   padding: 13px 45px 13px 21px;
 }
+.container {
+  max-width: 1200px;
+  margin: auto;
+  position: relative;
+  display: flex;
+}
+@media only screen and (max-width: 800px) {
+  .image {
+    width: 80%;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  .container {
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .nameCard {
+    margin-top: 8px;
+    position: relative;
+    align-self: flex-start;
+  }
+}

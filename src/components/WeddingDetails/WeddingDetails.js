@@ -8,7 +8,7 @@ class WeddingDetails extends React.Component {
       <div className="container">
         <div className={styles.contentContainer}>
           <div className={styles.content}>
-            <h2 className="pageTitle">Ceremony Details</h2>
+            <h2 className="pageTitle">Ceremony</h2>
             <p> September 21, 2019 @ 3:30pm</p>
             <strong> Camarillo Ranch</strong>
             <div className={styles.address}>

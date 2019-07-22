@@ -145,3 +145,27 @@ p {
   text-align: left;
   font-size: 30px;
 }
+
+@media only screen and (max-width: 800px) {
+  .homeNav {
+    width: 50%;
+  }
+  .nav {
+    flex-direction: column;
+    padding: 0;
+  }
+  .nav li {
+    margin-bottom: 13px;
+    width: 100%;
+  }
+  .container {
+    width: 90%;
+    margin: auto;
+  }
+  .headerImage {
+    width: 100%;
+  }
+  .pageTitle  {
+    text-align: center;
+  }
+}

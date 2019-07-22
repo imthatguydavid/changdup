@@ -31,3 +31,19 @@
   margin-bottom: 30px;
   margin-top: 5px;
 }
+
+@media only screen and (max-width: 800px) {
+  .map {
+    display: none;
+  }
+  .buttonContainer {
+    flex-direction: column;
+    button {
+      margin-bottom: 13px;
+    }
+  }
+  .content {
+    text-align: center;
+    width: 100%;
+  }
+}
