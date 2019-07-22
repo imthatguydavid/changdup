@@ -4,8 +4,7 @@ class App extends React.Component {
     return (
       <div className="header">
         <div className="container">
-          <h1>Chang’d Up</h1>
-          <p style={{marginBottom: 0, fontSize: 24,}}>Erica Joy De La Merced + Joseph Taejoon Chang</p>
+          <h1>#ChangdUp</h1>
           <img className="headerImage" src={require('../src/static/header-img.png')} />
           <h3>September 21, 2019</h3>
           <p>
