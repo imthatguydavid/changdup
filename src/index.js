@@ -13,7 +13,7 @@ const routing = (
   <Router>
     <div>
       <div className="header">
-        <Link to="/" className="homeNav"><h3>Erica & Joseph</h3></Link>
+        <Link to="#" className="homeNav"><h3>Erica & Joseph</h3></Link>
         <ul className="nav">
           <li>
             <Link to="/">Home</Link>
@@ -33,11 +33,11 @@ const routing = (
         </ul>
       </div>
       <Switch>
-        <Route exact path="/" component={App} />
-        <Route path="/Wedding-Details" component={WeddingDetails} />
-        <Route path="/Wishing-Well" component={WishingWell} />
-        <Route path="/Wedding-Party" component={WeddingParty} />
-        <Route path="/travel" component={WhereToStay} />
+        <Route exact path="#" component={App} />
+        <Route path="#Wedding-Details" component={WeddingDetails} />
+        <Route path="#Wishing-Well" component={WishingWell} />
+        <Route path="#Wedding-Party" component={WeddingParty} />
+        <Route path="#travel" component={WhereToStay} />
         <Router component={NotFound} />
       </Switch>
     </div>
