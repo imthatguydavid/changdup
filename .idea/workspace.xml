@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42e04fe5-6b99-4232-b9d5-4a30900c6c5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="42e04fe5-6b99-4232-b9d5-4a30900c6c5a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +15,7 @@
     <session id="1938961935">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
@@ -293,18 +291,17 @@
       <workItem from="1562779792174" duration="10944000" />
       <workItem from="1563656637907" duration="2605000" />
       <workItem from="1563659332283" duration="18256000" />
-      <workItem from="1563819737168" duration="412000" />
+      <workItem from="1563819737168" duration="550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36122000" />
+    <option name="totallyTimeSpent" value="36260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1590" y="23" width="1680" height="1867" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49812382" visible="true" weight="0.18319227" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49812382" visible="true" weight="0.18319227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.5018762" side_tool="true" weight="0.15997888" />
@@ -319,7 +316,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1998861" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1998861" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
