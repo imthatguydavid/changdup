@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42e04fe5-6b99-4232-b9d5-4a30900c6c5a" name="Default Changelist" comment="" />
+    <list default="true" id="42e04fe5-6b99-4232-b9d5-4a30900c6c5a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/suzy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/suzy.png" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,13 +18,13 @@
     <session id="1938961935">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -30,10 +33,10 @@
           <entry key="css" value="14" />
           <entry key="html" value="3" />
           <entry key="ico" value="5" />
-          <entry key="js" value="47" />
+          <entry key="js" value="48" />
           <entry key="json" value="1" />
           <entry key="png" value="1" />
-          <entry key="scss" value="26" />
+          <entry key="scss" value="27" />
           <entry key="svg" value="3" />
           <entry key="ts" value="1" />
         </counts>
@@ -44,9 +47,9 @@
           <entry key="HTML" value="3" />
           <entry key="Image" value="6" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="47" />
+          <entry key="JavaScript" value="48" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SCSS" value="26" />
+          <entry key="SCSS" value="27" />
           <entry key="SVG" value="3" />
           <entry key="TypeScript" value="1" />
         </counts>
@@ -56,7 +59,7 @@
           <entry key="CNAME" value="12" />
           <entry key="css" value="451" />
           <entry key="html" value="72" />
-          <entry key="js" value="4685" />
+          <entry key="js" value="4688" />
           <entry key="json" value="76" />
           <entry key="scss" value="2587" />
         </counts>
@@ -66,7 +69,7 @@
           <entry key="CSS" value="451" />
           <entry key="HTML" value="72" />
           <entry key="JSON" value="76" />
-          <entry key="JavaScript" value="4685" />
+          <entry key="JavaScript" value="4688" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="SCSS" value="2587" />
         </counts>
@@ -78,14 +81,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+            <state relative-caret-position="362">
+              <caret line="39" column="56" lean-forward="true" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/index.module.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="26" selection-start-line="26" selection-end-line="33" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="25" column="101" lean-forward="true" selection-start-line="25" selection-start-column="101" selection-end-line="25" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -140,13 +161,13 @@
         <option value="$PROJECT_DIR$/src/components/WeddingDetails/index.module.scss" />
         <option value="$PROJECT_DIR$/src/components/WeddingDetails/WeddingDetails.js" />
         <option value="$PROJECT_DIR$/src/App.scss" />
-        <option value="$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js" />
         <option value="$PROJECT_DIR$/src/components/Party/Party.js" />
         <option value="$PROJECT_DIR$/src/components/WeddingParty/index.module.scss" />
         <option value="$PROJECT_DIR$/src/components/Party/index.module.scss" />
         <option value="$PROJECT_DIR$/src/components/WhereToStay/index.module.scss" />
         <option value="$PROJECT_DIR$/src/components/WishingWell/index.module.scss" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js" />
       </list>
     </option>
   </component>
@@ -166,11 +187,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1590" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="1867" />
+    <option name="width" value="1920" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -237,6 +257,12 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="WishingWell" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="changdup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changdup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -294,16 +320,19 @@
       <workItem from="1563659332283" duration="18256000" />
       <workItem from="1563819737168" duration="550000" />
       <workItem from="1563993763443" duration="1122000" />
+      <workItem from="1564000003933" duration="643000" />
+      <workItem from="1564019555403" duration="302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37382000" />
+    <option name="totallyTimeSpent" value="38327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1590" y="23" width="1680" height="1867" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49812382" visible="true" weight="0.18319227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49812382" visible="true" weight="0.15997888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.5018762" side_tool="true" weight="0.15997888" />
@@ -318,7 +347,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1998861" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -493,20 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/index.module.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="26" selection-start-line="26" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/WishingWell/index.module.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
@@ -537,11 +552,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        <state relative-caret-position="362">
+          <caret line="39" column="56" lean-forward="true" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/index.module.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="26" selection-start-line="26" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="25" column="101" lean-forward="true" selection-start-line="25" selection-start-column="101" selection-end-line="25" selection-end-column="101" />
         </state>
       </provider>
     </entry>
