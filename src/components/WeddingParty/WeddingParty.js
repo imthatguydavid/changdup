@@ -21,10 +21,10 @@ class WeddingParty extends React.Component {
           <div className={styles.group}>
             <h3 className={styles.title}>Bridal Party</h3>
             <div className={styles.people}>
-              <Party title='Maid of Honor' name='Melissa De La Merced' image={require('../../static/melissa.png')} />
+              <Party title='Maid of Honor' name='Melissa De La Merced' image={require('../../static/melisa.png')} />
               <Party title='Bridesmaid' name='Sharon Chang' image={require('../../static/sharon.png')} />
               <Party title='Bridesmaid' name='Suzy Chang' image={require('../../static/suzy.png')} />
-              <Party title='Bridesmaid' name='Molly Anabeza' image={require('../../static/molly.jpg')} />
+              <Party title='Bridesmaid' name='Molly Anabeza' image={require('../../static/molly.png')} />
               <Party title='Bridesmaid' name='Cheryl Directo' image={require('../../static/cheryl.png')} />
             </div>
           </div>

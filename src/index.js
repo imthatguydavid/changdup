@@ -7,6 +7,7 @@ import WeddingDetails from './components/WeddingDetails/WeddingDetails';
 import WishingWell from './components/WishingWell/WishingWell';
 import WeddingParty from './components/WeddingParty/WeddingParty';
 import WhereToStay from './components/WhereToStay/WhereToStay';
+import FAQ from './components/FAQ/FAQ';
 import NotFound from './components/NotFound';
 
 const routing = (
@@ -25,10 +26,13 @@ const routing = (
             <Link to="/Wedding-Party">Wedding Party</Link>
           </li>
           <li>
-            <Link to="/travel">Where To Stay</Link>
+            <Link to="/Where-To-Stay">Where To Stay</Link>
           </li>
           <li>
             <Link to="/Wishing-Well">Wishing Well</Link>
+          </li>
+          <li>
+            <Link to="/FAQ">FAQ</Link>
           </li>
         </ul>
       </div>
@@ -37,7 +41,8 @@ const routing = (
         <Route path="/Wedding-Details" component={WeddingDetails} />
         <Route path="/Wishing-Well" component={WishingWell} />
         <Route path="/Wedding-Party" component={WeddingParty} />
-        <Route path="/travel" component={WhereToStay} />
+        <Route path="/Where-To-Stay" component={WhereToStay} />
+        <Route path="/FAQ" component={FAQ} />
         <Router component={NotFound} />
       </Switch>
     </div>

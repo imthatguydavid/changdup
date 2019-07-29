@@ -8,7 +8,7 @@ class WishingWell extends React.Component {
       <div className="container">
         <div className={styles.contentContainer}>
           <div className={styles.content}>
-            <h2 className="pageTitle">WishingWell</h2>
+            <h2 className="pageTitle">Wishing Well</h2>
             <div className={styles.poem}>
               <p>More than just kisses so far we've shared</p>
               <p>Our home has been made with love and care</p>
