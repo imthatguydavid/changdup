@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42e04fe5-6b99-4232-b9d5-4a30900c6c5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/FAQ/index.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/melisa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/molly.png" afterDir="false" />
+    <list default="true" id="42e04fe5-6b99-4232-b9d5-4a30900c6c5a" name="Default Changelist" comment="00">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Party/index.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Party/index.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Rsvp/Rsvp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Rsvp/index.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FAQ/FAQ.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WishingWell/WishingWell.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WishingWell/WishingWell.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/melissa.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/melissa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/molly.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WeddingParty/index.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeddingParty/index.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/static/russ.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/russ.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -48,7 +38,7 @@
           <entry key="js" value="57" />
           <entry key="json" value="1" />
           <entry key="png" value="1" />
-          <entry key="scss" value="34" />
+          <entry key="scss" value="36" />
           <entry key="svg" value="3" />
           <entry key="ts" value="1" />
         </counts>
@@ -61,7 +51,7 @@
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="57" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SCSS" value="34" />
+          <entry key="SCSS" value="36" />
           <entry key="SVG" value="3" />
           <entry key="TypeScript" value="1" />
         </counts>
@@ -71,9 +61,10 @@
           <entry key="CNAME" value="12" />
           <entry key="css" value="451" />
           <entry key="html" value="72" />
-          <entry key="js" value="5066" />
+          <entry key="js" value="5512" />
           <entry key="json" value="76" />
-          <entry key="scss" value="3065" />
+          <entry key="scss" value="3266" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -81,9 +72,9 @@
           <entry key="CSS" value="451" />
           <entry key="HTML" value="72" />
           <entry key="JSON" value="76" />
-          <entry key="JavaScript" value="5066" />
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="SCSS" value="3065" />
+          <entry key="JavaScript" value="5512" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="SCSS" value="3266" />
         </counts>
       </usages-collector>
     </session>
@@ -92,59 +83,76 @@
     <favorites_list name="changdup" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="23" column="104" selection-start-line="23" selection-start-column="104" selection-end-line="23" selection-end-column="104" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/FAQ/FAQ.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="54" column="102" selection-start-line="54" selection-start-column="95" selection-end-line="54" selection-end-column="102" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/WhereToStay/WhereToStay.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="151" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/FAQ/index.module.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="302">
+                  <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#0#25#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="65">
+                  <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/FAQ/FAQ.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="649">
+                  <caret line="54" column="102" selection-start-line="54" selection-start-column="95" selection-end-line="54" selection-end-column="102" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/WhereToStay/WhereToStay.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="504">
+                  <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="151" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/FAQ/index.module.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="404">
+                  <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/index.module.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="508">
+                  <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -194,17 +202,17 @@
         <option value="$PROJECT_DIR$/src/components/WhereToStay/WhereToStay.js" />
         <option value="$PROJECT_DIR$/src/components/WeddingDetails/index.module.scss" />
         <option value="$PROJECT_DIR$/src/components/Party/Party.js" />
-        <option value="$PROJECT_DIR$/src/components/WeddingParty/index.module.scss" />
         <option value="$PROJECT_DIR$/src/components/WhereToStay/index.module.scss" />
         <option value="$PROJECT_DIR$/src/components/WishingWell/index.module.scss" />
         <option value="$PROJECT_DIR$/src/components/WishingWell/WishingWell.js" />
         <option value="$PROJECT_DIR$/src/components/Party/index.module.scss" />
-        <option value="$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js" />
         <option value="$PROJECT_DIR$/src/App.scss" />
         <option value="$PROJECT_DIR$/src/components/WeddingDetails/WeddingDetails.js" />
         <option value="$PROJECT_DIR$/src/components/FAQ/FAQ.js" />
         <option value="$PROJECT_DIR$/src/components/FAQ/index.module.scss" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js" />
+        <option value="$PROJECT_DIR$/src/components/WeddingParty/index.module.scss" />
       </list>
     </option>
   </component>
@@ -294,6 +302,12 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="WishingWell" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="changdup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changdup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -353,12 +367,12 @@
       <workItem from="1563993763443" duration="1122000" />
       <workItem from="1564000003933" duration="643000" />
       <workItem from="1564019555403" duration="1766000" />
-      <workItem from="1564367241393" duration="3363000" />
+      <workItem from="1564367241393" duration="4859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43154000" />
+    <option name="totallyTimeSpent" value="44650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
@@ -379,7 +393,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3292683" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -554,13 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/index.module.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Rsvp/Rsvp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -588,20 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/WhereToStay/WhereToStay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="151" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="23" column="104" selection-start-line="23" selection-start-column="104" selection-end-line="23" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/FAQ/FAQ.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="649">
@@ -621,11 +614,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
+        <state relative-caret-position="302">
           <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/WhereToStay/WhereToStay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/WeddingParty.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/WeddingParty/index.module.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
         </state>
       </provider>
     </entry>

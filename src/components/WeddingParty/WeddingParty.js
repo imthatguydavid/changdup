@@ -28,6 +28,46 @@ class WeddingParty extends React.Component {
               <Party title='Bridesmaid' name='Cheryl Directo' image={require('../../static/cheryl.png')} />
             </div>
           </div>
+          <div className={styles.singleColumn}>
+            <div className={styles.parentContainer}>
+              <h3 className={styles.parentTitle}>Joseph's Parents</h3>
+              <p className={styles.parents}>Mr. Hak Bum Chang</p>
+              <p className={styles.parents}>Mrs. Hyun Sook Chang</p>
+            </div>
+            <div className={styles.parentContainer}>
+              <h3 className={styles.parentTitle}>Erica's Parents</h3>
+              <p className={styles.parents}>Mr. Eric De La Merced</p>
+              <p className={styles.parents}>Mrs. Jocelyn De La Merced</p>
+            </div>
+            <div className={styles.sponsorContainer}>
+              <h3 className={styles.sponsorTitle}>Principal Sponsors</h3>
+              <p>Mr. Edwin and Mrs. Marylou Loualhati</p>
+              <p>Mr. Jing and Mrs. Marissa De La Merced</p>
+              <p>Mr. Alberto Jr. De La Merced and Ms. Priscila Loualhati</p>
+            </div>
+            <h3 className={styles.sponsorTitle}>Secondary Sponsors</h3>
+            <div className={styles.sponsorContainer}>
+              <p className={styles.secondSponsor}>Cord Sponsor</p>
+              <p>Dr. Ken and Mrs. Michelle Urriquia</p>
+            </div>
+            <div className={styles.sponsorContainer}>
+              <p className={styles.secondSponsor}>Veil Sponsor</p>
+              <p>Mr. Matthew Tiguelo and Ms. Cindy Gondosaputro</p>
+            </div>
+            <div className={styles.sponsorContainer}>
+              <p className={styles.secondSponsor}>Coin Sponsor</p>
+              <p>Mr. Jeffrey Fajardo</p>
+            </div>
+            <div className={styles.sponsorContainer}>
+              <p className={styles.secondSponsor}>Flower Girls</p>
+              <p>Emma Urriquia</p>
+              <p>Jhalene Anabeza</p>
+            </div>
+            <div className={styles.sponsorContainer}>
+              <p className={styles.secondSponsor}>Ring Bearer</p>
+              <p>Elliott Urriquia </p>
+            </div>
+          </div>
         </div>
       </div>
     )

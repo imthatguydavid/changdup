@@ -17,6 +17,27 @@
     flex-direction: column;
     justify-content: center;
 }
+.singleColumn {
+    flex: 1;
+}
+
+.parentContainer {
+    p {
+        margin: 3px 0;
+    }
+}
+.sponsorContainer {
+    p {
+        margin: 8px 0;
+    }
+    .secondSponsor {
+        font-weight: 800;
+        font-size: 1.25rem;
+        color: #666;
+        font-family: 'Playfair Display', serif;
+    }
+    margin-bottom: 25px;
+}
 
 .title {
     font-size: 30px;
